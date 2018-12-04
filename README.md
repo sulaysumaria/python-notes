@@ -28,3 +28,9 @@ Sequence Types
   - range Type
   - bytes and bytearray
   - Dictionary
+
+Operators and Operands
+  - Arithmetic Operators
+  - Assignment Operators
+  - Comparison Operators
+  - Logical Operators
