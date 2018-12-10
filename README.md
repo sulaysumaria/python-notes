@@ -34,3 +34,16 @@ Operators and Operands
   - Assignment Operators
   - Comparison Operators
   - Logical Operators
+
+Input and Output functions
+  - print
+  - Input
+
+Programs
+  - Read and Display student Details
+  - Average of three numbers
+  - Area of a circle
+  - Using the math module
+  - Function as parameter
+
+Flow Control Statements
