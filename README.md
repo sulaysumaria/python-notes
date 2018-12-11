@@ -63,3 +63,12 @@ Flow Control Statements
 Command Line Arguments
   - basic
   - product of command line args
+
+Functions
+  - Average of two numbers
+  - Calculator
+  - Local and Global Variables
+  - Return Functions
+  - Factorial
+  - Keyword arguments
+  - Default arguments
