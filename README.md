@@ -47,3 +47,15 @@ Programs
   - Function as parameter
 
 Flow Control Statements
+  - If Else syntax
+  - If Else Ladder
+  - Find even or odd number
+  - While syntax
+  - Display numbers from 1 to 20
+  - Odd numbers between given numbers
+  - For syntax
+  - Product of numbers in list
+  - Multiplication table of a given number
+  - break
+  - continue
+  - assert
