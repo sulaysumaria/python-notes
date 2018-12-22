@@ -98,3 +98,6 @@ Object Oriented Programming
   - Static field
   - Static method
   - Inner class
+
+Encapsulation
+  - Private fields and Name Mangling
