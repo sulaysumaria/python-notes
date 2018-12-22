@@ -83,3 +83,9 @@ Lambdas
   - Decorators
   - Generators
   - Modules
+
+List Comprehensions
+  - Cube of numbers in a list
+  - Even numbers in a list
+  - Product of numbers in a list
+  - Common elements in a list
