@@ -72,3 +72,14 @@ Functions
   - Factorial
   - Keyword arguments
   - Default arguments
+
+Lambdas
+  - Cube of a given number
+  - Even or Odd
+  - Sum of two numbers
+  - Using a filter
+  - Using a map
+  - Using a reduce
+  - Decorators
+  - Generators
+  - Modules
