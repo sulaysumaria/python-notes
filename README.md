@@ -119,3 +119,9 @@ Inheritance
 
 - Overriding
 - using Super()
+
+Polymorphism
+
+- DuckTyping
+- Operator Overloading
+- Runtime Polymorphism
