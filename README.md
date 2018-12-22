@@ -125,3 +125,8 @@ Polymorphism
 - DuckTyping
 - Operator Overloading
 - Runtime Polymorphism
+
+Abstraction
+
+- Abstract Class
+- Interface
