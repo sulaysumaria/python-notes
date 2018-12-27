@@ -130,3 +130,12 @@ Abstraction
 
 - Abstract Class
 - Interface
+
+Exception Handling Assertions and Logging
+
+- Exceptions
+- finally
+- else
+- logging
+- logging in file
+- using assertions
