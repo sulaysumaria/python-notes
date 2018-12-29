@@ -147,3 +147,15 @@ Files
 - write multiple lines
 - pickle
 - unpickle
+
+Regular Expressions
+
+- Sequence Characters
+- search()
+- findall()
+- match()
+- split()
+- sub()
+- Quantifiers
+- Find all dates
+- special characters
