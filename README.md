@@ -179,3 +179,9 @@ Threads
 - sleep()
 - thread synchronization using lock/semaphore
 - thread communication using flag/wait, notify
+
+Networking
+
+- urllib
+- socket
+- smtplib
