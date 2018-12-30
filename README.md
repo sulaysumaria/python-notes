@@ -168,3 +168,14 @@ Date and Time
 - sorting dates
 - sleep()
 - perf_counter()
+
+Threads
+
+- Main thread
+- thread using function
+- extending Thread class
+- using a class
+- multithreading
+- sleep()
+- thread synchronization using lock/semaphore
+- thread communication using flag/wait, notify
