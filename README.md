@@ -159,3 +159,12 @@ Regular Expressions
 - Quantifiers
 - Find all dates
 - special characters
+
+Date and Time
+
+- epoch
+- finding current date and time
+- combining date and time
+- sorting dates
+- sleep()
+- perf_counter()
